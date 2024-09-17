@@ -12,9 +12,6 @@
 <url>
 <![CDATA[ www.sai.com ]]>
 </url>
-<bid>
-<![CDATA[ 10.01 ]]>
-</bid>
 <company>
 <![CDATA[ Eswar Kandula ]]>
 </company>
@@ -55,12 +52,6 @@
 <email/>
 <salary/>
 <education/>
-<major_category>
-<![CDATA[ Capital Markets ]]>
-</major_category/>
-<minor_category>
-<![CDATA[ Trader ]]>
-</minor_category/>
 <requirements/>
 <experience/>
 <expirationdate/>
