@@ -54,10 +54,10 @@
 <education/>
 <major_category>
 <![CDATA[ Capital Markets ]]>
-<major_category/>
+</major_category>
 <minor_category>
 <![CDATA[ Trader ]]>
-<minor_category/>
+</minor_category>
 <requirements/>
 <experience/>
 <expirationdate/>
@@ -65,7 +65,7 @@
 <workschedule/>
 <requisition_id>
 <![CDATA[ 123-789 ]]>
-<requisition_id/>
+</requisition_id>
 </job>
 
 </source>
