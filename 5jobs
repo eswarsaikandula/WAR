@@ -248,6 +248,9 @@
 <title>
 <![CDATA[   Team2 ]]>
 </title>
+<requisition_id>
+<![CDATA[ 77-777 ]]>
+</requisition_id>
 <campaign>
 <![CDATA[ OTR Teams ]]>
 </campaign>
@@ -347,6 +350,9 @@
 <expirationdate/>
 <remotetype/>
 <workschedule/>
+<requisition_id>
+<![CDATA[ 123-789 ]]>
+</requisition_id>
 </job>
 
 </source>
