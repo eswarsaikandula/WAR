@@ -41,9 +41,6 @@ This XML file does not appear to have any style information associated with it. 
 <category>
 <![CDATA[ 27 ]]>
 </category>
-<requisition_id>
-<![CDATA[ 78fb416f-cd24-de29-d011-3a155fde3d13 ]]>
-</requisition_id>
 </job>
 <job>
 <title>
@@ -83,9 +80,6 @@ This XML file does not appear to have any style information associated with it. 
 <category>
 <![CDATA[ 27 ]]>
 </category>
-requisition_id>
-<![CDATA[ 12eec569-5674-0bde-be04-3a155fde2f8a ]]>
-</requisition_id>
 </job>
 <job>
 <title>
@@ -125,9 +119,6 @@ requisition_id>
 <category>
 <![CDATA[ 27 ]]>
 </category>
-<requisition_id>
-<![CDATA[ f226de47-30d0-854e-2c87-3a153d4b94de ]]>
-</requisition_id>
 </job>
 </source>
 </jobs>
