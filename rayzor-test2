@@ -1,7 +1,6 @@
 <source>
 <publisher>RealMatch</publisher>
-<publisherurl>http://www.realmatch.com</publisherurl>
-<jobs>
+<publisherurl>http://www.realmatch.com</publisherurl
 <job>
 <title>
 <![CDATA[ Delivery Driver – Amazon Delivery Partner jobs]]>
@@ -120,4 +119,3 @@
 </category>
 </job>
 </source>
-</jobs>
